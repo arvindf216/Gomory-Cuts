@@ -1,0 +1,15 @@
+[objective]
+minimize
+
+[A]
+2, 0
+
+[b]
+1
+
+[constraint_types]
+=
+
+[c]
+0, -1
+
